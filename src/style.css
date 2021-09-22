@@ -1,0 +1,27 @@
+.imagemCarrosel{
+  object-fit: cover;
+  object-position: 0 80%;
+  height: 400px;
+}
+.fontTitulo{
+  font-family: 'Oswald', sans-serif;
+}
+.corEspecial{
+  color: darkred!important;
+}
+.botaoCor{
+  background-color: darkred ;
+  color: white;
+
+}
+.bordaCor{
+  border-color: darkred;
+}
+.cardposicao{
+  object-fit: cover;
+  /*object-position: 0 80%;*/
+  height: 200px;
+}
+.cardlargura{
+ max-width: 18rem;
+}
